@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringLoginApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rahul N Yellapragada (2500050)
+Implementation-Vendor-Id: com.rahul
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/rahul/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
